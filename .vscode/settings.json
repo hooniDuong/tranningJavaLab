@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Library/mssql-jdbc-12.8.1.jre8.jar",
+        "Library/mysql-connector-j-9.6.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
